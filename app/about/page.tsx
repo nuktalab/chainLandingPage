@@ -6,7 +6,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "About Page | SafeChain - Your digital healthcare passport",
-  description: "This is About Page for SafeChain",
+  description: "About Page for SafeChain",
   // other metadata
 };
 
